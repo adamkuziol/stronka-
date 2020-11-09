@@ -1,0 +1,39 @@
+html {
+	background-color: #fff;
+	color: #000;
+
+}
+body {
+        margin: 0;
+	      padding: 0;
+        display: block;
+	      width: 1000px;
+        overflow: auto;
+}
+#header {
+
+        width: 100%;
+        float: left;
+	background-color: #9900CC;
+  height: 200px
+}
+#menu {
+	width: 446px;
+	float: left;
+	overflow: hidden;
+	background-color: #5933CC;
+  height: 200px
+}
+#content {
+	width: 554px;
+	float: left;
+	overflow: hidden;
+	background-color: #555426;
+  height: 200px
+}
+#footer {
+	clear: both;
+	width: 100%;
+	background-color: #666666;
+  height: 200px
+}
